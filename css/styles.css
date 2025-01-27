@@ -245,6 +245,54 @@ body {
 
   /* #endregion */
 
+  /* #region HERO */
+  .hero-section {
+}
+.container {
+}
+    .hero-container {
+        padding-top: 60px;
+    }
+
+    .hero-title {
+        font-weight: 600;
+        font-size: 40px;
+        line-height: 0.95;
+        letter-spacing: -0.02em;
+    }
+
+    .hero-title-style {
+        color: #3350e9;
+    }
+
+    .hero-text {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.28571;
+        letter-spacing: -0.02em;
+        color: rgba(12, 12, 12, 0.7);
+    }
+
+    .hero-img-ctn {
+        display: flex;
+        align-items: flex-end;
+        justify-content: space-between;
+    }
+
+.hero-img-list {
+}
+    .hero-img-item {
+        width: 44px;
+        height: 44px;
+    }
+
+.srcoll {
+}
+.hero-img {
+}
+
+  /* #endregion */
+
   /* #region REVIEWS */
 
   .reviews-container {
